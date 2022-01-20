@@ -6,4 +6,7 @@ Project 2 : The dataset contains the information like personal information of th
 <br>
 &#183; Our task is to be able to predict the customers who are going to churn based on the information given.
 <br>
-Project 3 : Coming Soon!
+Project 3 : Dream Housing Finance company deals in all kinds of home loans. They have a presence across all urban, semi-urban, and rural areas. Customer-first applies for a home loan and after that company validates the customer eligibility for the loan.
+&#183; The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling out an online application form. These details are Gender, Marital Status, Education, number of Dependents, Income, Loan Amount, Credit History, and others. To automate this process, they have provided a dataset to identify the customer segments that are eligible for loan amounts so that they can specifically target these customers.
+<br>
+Project 4 : Coming Soon!
